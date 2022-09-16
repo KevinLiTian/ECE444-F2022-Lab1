@@ -27,9 +27,16 @@ https://github.com/tujiaqi2002/ECE444-F2022-Lab1
 
 In branch `rebase`, run command
 
-```
+```sh
 git rebase develop
+
+# If any conflict, solve conflict then
+git add .
+git rebase --continue
 ```
 
 <img width="706" alt="Screen Shot 2022-09-16 at 6 28 05 PM" src="https://user-images.githubusercontent.com/99038613/190825073-64910fa5-5d82-4893-9fc7-d3ea16f110a5.png">
 
+### git log
+
+<img width="654" alt="Screen Shot 2022-09-16 at 6 37 01 PM" src="https://user-images.githubusercontent.com/99038613/190826751-f378a0f0-e417-4227-964f-a91a19db592e.png">
