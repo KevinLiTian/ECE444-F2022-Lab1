@@ -15,3 +15,10 @@ Kevin (Tian) Li
 <img width="920" alt="Screen Shot 2022-09-16 at 10 45 20 AM" src="https://user-images.githubusercontent.com/99038613/190666746-6d20c327-3c0b-49ac-babc-5aa02f96ec16.png">
 
 
+## Activity 4
+
+https://github.com/tujiaqi2002/ECE444-F2022-Lab1
+
+<img width="1369" alt="Screen Shot 2022-09-16 at 6 10 45 PM" src="https://user-images.githubusercontent.com/99038613/190812956-8e909b05-3843-41ba-a0c0-8c3ad87afa3c.png">
+
+<img width="1368" alt="Screen Shot 2022-09-16 at 6 11 17 PM" src="https://user-images.githubusercontent.com/99038613/190812958-ea0f3871-1584-45c9-a101-9fb434a5bb61.png">
