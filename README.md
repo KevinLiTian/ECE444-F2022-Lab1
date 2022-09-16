@@ -40,3 +40,7 @@ git rebase --continue
 ### git log
 
 <img width="654" alt="Screen Shot 2022-09-16 at 6 37 01 PM" src="https://user-images.githubusercontent.com/99038613/190826751-f378a0f0-e417-4227-964f-a91a19db592e.png">
+
+## Activity 6
+
+https://github.com/KevinLiTian/ECE444-F2022-EP
