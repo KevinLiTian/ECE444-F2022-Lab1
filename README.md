@@ -22,3 +22,14 @@ https://github.com/tujiaqi2002/ECE444-F2022-Lab1
 <img width="1369" alt="Screen Shot 2022-09-16 at 6 10 45 PM" src="https://user-images.githubusercontent.com/99038613/190812956-8e909b05-3843-41ba-a0c0-8c3ad87afa3c.png">
 
 <img width="1368" alt="Screen Shot 2022-09-16 at 6 11 17 PM" src="https://user-images.githubusercontent.com/99038613/190812958-ea0f3871-1584-45c9-a101-9fb434a5bb61.png">
+
+## Activity 5
+
+In branch `rebase`, run command
+
+```
+git rebase develop
+```
+
+<img width="706" alt="Screen Shot 2022-09-16 at 6 28 05 PM" src="https://user-images.githubusercontent.com/99038613/190825073-64910fa5-5d82-4893-9fc7-d3ea16f110a5.png">
+
