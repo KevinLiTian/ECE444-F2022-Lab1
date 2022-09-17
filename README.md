@@ -44,3 +44,10 @@ git rebase --continue
 ## Activity 6
 
 https://github.com/KevinLiTian/ECE444-F2022-EP
+
+## Activity 7
+
+<img width="508" alt="Screen Shot 2022-09-17 at 5 09 02 PM" src="https://user-images.githubusercontent.com/99038613/190876585-4926e082-b22b-4908-9c43-c7ede82f9cc0.png">
+
+<img width="1470" alt="Screen Shot 2022-09-17 at 5 04 16 PM" src="https://user-images.githubusercontent.com/99038613/190876590-97f328f7-b036-4c01-82e6-010cf6265a31.png">
+
