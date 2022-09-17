@@ -51,3 +51,9 @@ https://github.com/KevinLiTian/ECE444-F2022-EP
 
 <img width="1470" alt="Screen Shot 2022-09-17 at 5 04 16 PM" src="https://user-images.githubusercontent.com/99038613/190876590-97f328f7-b036-4c01-82e6-010cf6265a31.png">
 
+## Activity 8
+
+<img width="476" alt="Screen Shot 2022-09-17 at 5 38 35 PM" src="https://user-images.githubusercontent.com/99038613/190877226-5c412323-da66-4e1b-82e7-9cea2a18696e.png">
+
+<img width="1470" alt="Screen Shot 2022-09-17 at 5 37 35 PM" src="https://user-images.githubusercontent.com/99038613/190877230-905f3182-4cf9-47e5-8373-e20fb846a4a1.png">
+
